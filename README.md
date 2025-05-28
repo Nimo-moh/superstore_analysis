@@ -1,4 +1,4 @@
-#📊 Superstore Sales Analysis (Power BI + SQL) 
+
 # Superstore Sales Analysis 📊
 
 This project analyzes Superstore sales data using SQL for data exploration and Power BI for visualization. It reveals key insights about sales trends, profitability, and regional performance.
